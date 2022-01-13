@@ -1,0 +1,11 @@
+body {
+    font-size: 15pt;
+}
+#cvs {
+  border: 1px solid;
+}
+
+#stick {
+  width: 200px;
+  height: 200px;
+}
